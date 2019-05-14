@@ -17,7 +17,7 @@ This scenario is made using Arma 3 Eden Editor for research purposes
 	* Arma 3 Zeus
 	* Arma 3 Jets
 
-Arma 3 Workshop Content :
+* Arma 3 Workshop Content
 	* [United Nations Texture Project](https://steamcommunity.com/sharedfiles/filedetails/?id=1508316023)
 	* [UN 2030](https://steamcommunity.com/sharedfiles/filedetails/?id=374644346)
 	
