@@ -18,11 +18,9 @@ This scenario is made using Arma 3 Eden Editor for research purposes
 	* Arma 3 Jets
 
 Arma 3 Workshop Content :
-	* [United Nations Texture Project]
-https://steamcommunity.com/sharedfiles/filedetails/?id=1508316023
-
-	* [UN 2030]
-https://steamcommunity.com/sharedfiles/filedetails/?id=374644346
+	* [United Nations Texture Project](https://steamcommunity.com/sharedfiles/filedetails/?id=1508316023)
+	* [UN 2030](https://steamcommunity.com/sharedfiles/filedetails/?id=374644346)
+	
 
 
 ### Installing
@@ -41,7 +39,7 @@ C:\Users\YourUserName\Documents\Arma 3 - Other Profiles\YourProfileName\missions
 
 ## Authors
 
-* **[William Hokianto]**(https://github.com/williamhokianto)
+* **[William Hokianto](https://github.com/williamhokianto)**
 
 
 ## License
@@ -51,7 +49,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+* [Bohemia Interactive](https://www.bohemia.net/)
 * [United Nations Texture Project](https://steamcommunity.com/sharedfiles/filedetails/?id=1508316023) by: [CoseDola | Miller](https://steamcommunity.com/id/cosedola)
 * [UN 2030](https://steamcommunity.com/sharedfiles/filedetails/?id=374644346) by: [\[Dust\]Sabre](https://steamcommunity.com/profiles/76561198037316212)
-* [Engima's Traffic] Script(http://www.armaholic.com/page.php?id=30093) by: [Engima](https://forums.bohemia.net/profile/768522-engima/)
+* [Engima's Traffic](http://www.armaholic.com/page.php?id=30093) Script by: [Engima](https://forums.bohemia.net/profile/768522-engima/)
 
