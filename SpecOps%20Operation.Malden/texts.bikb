@@ -1,9 +1,0 @@
-class Sentences
-{
-		class OfficerLine_1	//Name to be used later to call the sound
-	{
-		text = "Sergeant, Pull up to the helicopter, and support the movement of the infantry, Over.";	//Subtitles
-		speech[] = {"\voices\test1.ogg"};			//Path to the sound file
-		actor = "officer";			//unit that is speaking
-	};
-};

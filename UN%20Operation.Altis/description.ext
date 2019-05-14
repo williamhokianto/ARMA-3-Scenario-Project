@@ -1,0 +1,39 @@
+class cfgMusic 
+{
+	sounds[]={mw3trackmain_full, mw2_menu_full, mw2_sad_1, mw2_action_1, mw3_closing};
+
+	class mw3trackmain_full 
+	{
+		name = "mw3trackmain_full_f";
+		sound[] = {"music\mw3trackmain_full.ogg", db+10, 1.0};
+		titles[] = {0,""};
+	};
+
+	class mw2_menu_full 
+	{
+		name = "mw2_menu_full_f";
+		sound[] = {"music\mw2_menu_full.ogg", db+10, 1.0};
+		titles[] = {0,""};
+	};
+
+	class mw2_sad_1 
+	{
+		name = "mw2_sad_1_f";
+		sound[] = {"music\mw2_sad_1.ogg", db+10, 1.0};
+		titles[] = {0,""};
+	};
+
+	class mw2_action_1 
+	{
+		name = "mw2_action_1_f";
+		sound[] = {"music\mw2_action_1.ogg", db+10, 1.0};
+		titles[] = {0,""};
+	};
+
+	class mw3_closing 
+	{
+		name = "mw3_closing_f";
+		sound[] = {"music\mw3_closing.ogg", db+10, 1.0};
+		titles[] = {0,""};
+	};
+};
